@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "GNNs_for_Drug_Discovery.pdf"
+    ],
+    "persona": {
+      "role": "PhD Researcher",
+      "expertise": "Computational Biology, Machine Learning",
+      "focus_areas": "benchmarks, comprehensive, datasets, focusing, literature, methodologies, performance, prepare, review"
+    },
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T09:44:05.681368"
+  },
+  "extracted_sections": [
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 1,
+      "section_title": "1 Introduction",
+      "importance_rank": 1
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 16,
+      "section_title": "6.1 ComprehensiveDatabases",
+      "importance_rank": 2
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 19,
+      "section_title": "6.4 MolecularInteractionDatabases",
+      "importance_rank": 3
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 22,
+      "section_title": "7 Discussion and Conclusion",
+      "importance_rank": 4
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 1,
+      "section_title": "Citation: Bongini,P.;Pancino,N.;",
+      "importance_rank": 5
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 2,
+      "section_title": "2. Results",
+      "importance_rank": 6
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 14,
+      "section_title": "6 Benchmark Databases",
+      "importance_rank": 7
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 17,
+      "section_title": "6.2 ClinicalDatabases",
+      "importance_rank": 8
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 23,
+      "section_title": "References",
+      "importance_rank": 9
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 4,
+      "section_title": "Table3. Comparisonbetweenourbestmodelconfigurationoneverydatasetandthecorresponding",
+      "importance_rank": 10
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 5,
+      "section_title": "3. Discussion",
+      "importance_rank": 11
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 1,
+      "section_title": "1. Introduction",
+      "importance_rank": 12
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 6,
+      "section_title": "5.2. UseCase: Alzheimer’sdisease",
+      "importance_rank": 13
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 9,
+      "section_title": "References",
+      "importance_rank": 14
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 2,
+      "section_title": "1.1 MoleculeGeneration",
+      "importance_rank": 15
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 3,
+      "section_title": "1.3 Drug-DrugInteractionPrediction",
+      "importance_rank": 16
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 5,
+      "section_title": "3.1 UnconstrainedGeneration",
+      "importance_rank": 17
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 8,
+      "section_title": "4.1 PropertyPredictionandMoleculeRepresentationLearningBasedon2DGraphs",
+      "importance_rank": 18
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 9,
+      "section_title": "4.2 PropertyPredictionbasedon3D-graphs",
+      "importance_rank": 19
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 10,
+      "section_title": "4.3 InteractionPrediction",
+      "importance_rank": 20
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 11,
+      "section_title": "5 Prediction of Drug-Drug Interactions",
+      "importance_rank": 21
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 12,
+      "section_title": "Latent Drug Safe",
+      "importance_rank": 22
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 13,
+      "section_title": "5.2 ProblemFormulations",
+      "importance_rank": 23
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 21,
+      "section_title": "6.5 ChallengesinData",
+      "importance_rank": 24
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 23,
+      "section_title": "9 Author Contributions Statement",
+      "importance_rank": 25
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 1,
+      "refined_text": "Existing literature provides X some comprehensive reviews on deep learning approaches in drug discovery [ 2 , 3 , 4 , 5 ]. : v To streamline the process of drug discovery and mitigate resource-intensive laboratory work, significant i research has been dedicated to the development of computational methods. In this review, r a wefocusonthedevelopmentandapplicationsof Graph Neural Networks(GNNs)onthreerelatedareasof computationaldrugdevelopment, namely, Molecule Generation , Molecular Property Prediction , and Drug- Drug Interaction Prediction , which not only receive increasing attention but also show promising results."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 16,
+      "refined_text": "The compound structure information usually serves as input for computational models and their labels and properties serve as training data. Drug Bank [ 113 ]isacomprehensive, freelyaccessible, onlinedatabasecontainingreliableinformation on drugs and drug target and is a vital resource for computational drug discovery and pharmaceutical re- search. Briefly, thedatasetscoverfourdifferenttypesofproperties, including Quantum Mechanics(includingdatasets QM 7, QM 8, QM 9), Physical Chemistry(datasets ESOL, Free Solv, Lipophilicity), Biophysics (datasets PCBA, MUV, HIV, BACE), and Physiology (datasets BBBP, Tox 21, SIDER, Clin Tox)."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 19,
+      "refined_text": "Researchers use these datasets to elucidate biochemical pathways, predict binding affinities, evaluate selectivity, and simulateoff-targeteffects. Ch EMBL [ 122 ] is a manually curated database focusing on bioactive molecules with drug-like prop- erties. Itprovides anessentiallinkagebetweentheenergeticandstructuralinformationofthosecomplexes, whichishelpfulfor various computational and statistical studies on docking validation, scoring-function development, affinity prediction, molecular recognition, and drug discovery."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 22,
+      "refined_text": "In recent years, deep learning approaches – particularly GNNs – have garnered increasing attention in the field of computational drug discovery. In this survey, we systematically review studies published since 2021, highlighting the significant role GNNs have played across three core application areas: molecule generation, molecular property prediction, and drug–drug interaction prediction. The papers included in this review represent state-of-the-art advancements in the field and demonstrate that moleculargraphrepresentationlearninghasbecomeadominantparadigmacrosstheseapplications."
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 1,
+      "refined_text": "The main contributions of the paper are as follows: a comprehensive method based on GNNkeras [ 23 ] to train andevaluate CGNNsand GNNsongraph-focusedregressionorclassificationtaskson anymoleculargraphdataset; anextensivecomparisonbetween CGNNsand GNNson benchmarkdatasetstakenfromthe OGB. 1 describes the datasets and associated learning tasks on which we trained and tested our model."
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 2,
+      "refined_text": "617 Theresultsclearlyshowthesuperiorityofthe CGNNonalargemajorityofmolecular datasets, with BBBPrepresentingtheonlyexceptionbyanarrow 0. Forinstance, evenjust applyingthe Layeredgraphneuralnetworkparadigmtoour CGNNswouldverylikely improve the performance level."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 14,
+      "refined_text": "We assembled a comprehensive list of datasets referenced across the reviewed studies and organized 15 them by their data characteristics, as summarized in Table 2 . Consistent with discussion in the paper, we separate the datasets into four categories: Comprehensive Databases, Clinical Databases, Structural Information Databases, and Molecular Interaction Databases. Eachrowincludesthename of the approach, the main model architecture, the prediction task and the datasets used."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 17,
+      "refined_text": "MIMIC-III [ 115 ]and MIMIC-IV [ 116 ]arefreelyaccessible, large-scaleclinicaldatabasesdeveloped by the MIT Lab for Computational Physiology. Both datasets support a wide arrayofresearchstudiesandhelptoreducebarrierstoconductingclinicalresearchusingpatientleveldata."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 23,
+      "refined_text": "Community assessment to advance computational prediction of cancer drug combinationsinapharmacogenomicscreen. Hospital admissions/visits associated with drug-drug interactions: a systematic review and meta-analysis. A compact review of molecular property prediction with graph neural networks."
+    },
+    {
+      "document": "Composite_Graph_Neural_Networks_for_Molecular_Prop.pdf",
+      "page_number": 4,
+      "refined_text": "CGNNs outperform previous Sot A methods on three datasets out of eight."
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 1,
+      "refined_text": "Inrecentyears, significantattentionhasbeendirectedtowardsthedevelopmentandutilization of extensive Knowledge Graphs (KGs) [ 1 ] for computational drug discovery tasks [ 2 , 3 , 4 ]."
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 6,
+      "refined_text": "The literature reveals that the primary goal of Alzheimer’s drugs, including Donepezil, is to maintain elevated acetylcholine (ACh) levels, therebycompensatingforthelossoffunctioningcholinergicbraincells[ 21 , 22 ]."
+    },
+    {
+      "document": "Explaining_Graph_Neural_Network_Predictions_for _Drug.pdf",
+      "page_number": 9,
+      "refined_text": "Su, Toward better drug discovery with knowl- edge graph, Current Opinion in Structural Biology 72 (2022) 114–126."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 2,
+      "refined_text": "To reduce experimental costs and to produce drug candidates more efficiently, many computational approaches have been devel- opedtogeneratenovelmolecules[ 6 , 7 , 8 , 9 , 10 ]. Early computational approaches for molecule generation were mostly applications of generative deep learningmodels, suchasvariationalautoencoder[ 16 ]."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 3,
+      "refined_text": "More recently, more and more approaches based on deep learning models have drawn increasing attention, and have achieved better performance [ 38 ]."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 5,
+      "refined_text": "In other words, computational models are typically trained on “hit molecules”–compounds that already ex- hibit desirable properties for drug development."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 8,
+      "refined_text": "However, in datasets with large environmental variations, Mole OOD’sadvantageoversimplermethodslike ERM[ 72 ]maydiminish."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 9,
+      "refined_text": "While Sphere Net demonstrated strong predictive performance, it lacked transparency and interpretability, which hinders the understanding of its decision-making processes."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 10,
+      "refined_text": "Incontrastto CNN-basedmethods, whichsufferfrominefficienciesduetovoxelization of irregular protein surfaces, Equi Pocket avoids computational redundancy and excessive memory usage throughitssurface-basedgeometricdesign."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 11,
+      "refined_text": "Computational approaches, particularly those 11 General DDI Prediction DDI Event Graph Embeddings Red Edge : DDI type 1 Blue Edge : GNN Blocks DDI type 2 Green Edge : DDI type 3 Latent DDI Embedding Prediction"
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 12,
+      "refined_text": "Recent computational strategies for DDI prediction can be broadly categorized into two paradigms, illustrated in Fig."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 13,
+      "refined_text": "Subsequent studies expanded the input space by incorpo- ratingdrugmoleculargraphs, therebyenablingtheintegrationofbothstructuralandrelationalperspectives to enhance model performance."
+    },
+    {
+      "document": "GNNs_for_Drug_Discovery.pdf",
+      "page_number": 21,
+      "refined_text": "Manydatasetsconsistofonlypositive(ornegative) samples because of the nature of the datasets."
+    }
+  ]
+}
